@@ -1,0 +1,5 @@
+{
+  "name": "3D Car Racing Game",
+  "description": "A high-speed 3D infinite runner game built with React, Three.js, and Tailwind CSS. Dodge obstacles, collect coins, and race for the high score!",
+  "requestFramePermissions": []
+}
